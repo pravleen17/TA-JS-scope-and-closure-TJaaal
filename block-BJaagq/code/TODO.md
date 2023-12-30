@@ -12,6 +12,7 @@ function change() {
   console.log(species);
 }
 
+
 console.log(species); // 1
 change();
 console.log(species); // 2
