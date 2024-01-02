@@ -6,6 +6,7 @@ var numA = 21,
   numB = 30;
 ```
 
+
 Find the output of the code snippets below:
 
 ```js
