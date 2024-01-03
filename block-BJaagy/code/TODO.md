@@ -1,8 +1,9 @@
 1. Create a function by your choice that accepts a callback function.
+   
 
-2. Create a function by you choice that returns a function reference.
+3. Create a function by you choice that returns a function reference.
 
-3. Create a higher order function called `map` that takes two inputs:
+4. Create a higher order function called `map` that takes two inputs:
    - An array of numbers/string/boolean etc
    - A 'callback' function - a function that is applied to each element of the array (inside of the function 'map')
 
