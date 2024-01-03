@@ -1,5 +1,6 @@
 
 1. Which all function is Higher order function and which one is a callback function in the code given below.
+   
 
 ```js
 let marks = [34, 45, 56, 76];
