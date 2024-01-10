@@ -5,6 +5,7 @@
 - It should work exactly like array `forEach` method
 
 ```js
+
 function forEach() {}
 
 forEach(['Sam', 'Jon', 'Arya'], (name, i, arr) =>
