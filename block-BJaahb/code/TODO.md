@@ -13,6 +13,7 @@ let getSum = outer();
 let num = getSum();
 ```
 
+
 2.
 
 Create the execution context diagram for following code. Also write the output of the code below.
