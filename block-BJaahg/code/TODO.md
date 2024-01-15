@@ -27,6 +27,7 @@ function fullName(a, b) {
   return a + b;
 }
 
+
 console.log(window.fullName(firstName, lastName));
 ```
 
