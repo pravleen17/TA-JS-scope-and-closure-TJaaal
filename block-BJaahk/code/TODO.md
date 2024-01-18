@@ -16,6 +16,7 @@ let censorQuote = censor('die', 'live');
 censorQuote(`all men must die`); // all men must live
 ```
 
+
 2. Create a function named `multipleCensor` which does not accept any parameter and returns a function.
 
 The returned function either accepts two parameter or one parameter.
